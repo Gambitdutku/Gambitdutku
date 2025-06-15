@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gambitdutku&label=Profile%20views&color=0e75b6&style=flat" alt="gambitdutku" /> </p>
 
-- 🔭 I’m currently working on [Go Server Monitor](https://github.com/Gambitdutku/Go-server-monitor-)
+- 🔭 I’m currently working on [BossTicket](https://github.com/Gambitdutku/bossTicket)
 
 - 🌱 I’m currently learning **Typescript, Pytorch**
 
